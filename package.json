@@ -1,0 +1,11 @@
+{
+  "name": "chatsocketio",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[B\u001b[BChat en tiemppo real\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Colombo",
+  "license": "MIT"
+}
